@@ -173,9 +173,9 @@ Showcase : https://youtu.be/FcVXVaTPqNY
 
 <img width="539" height="550" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/RayfieldGen2/RayfieldGen2.webp?raw=true" />
 
-# [nhack](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/nhack/nhack%20-%20Example.lua)
+# [nhack](https://github.com/EX4HUB/UI-Library/blob/main/Libraries/nhack/nhack%20-%20Example.lua)
 
-<img width="3434" height="1432" alt="image" src="https://github.com/user-attachments/assets/039aa92b-d783-4b27-90b6-911e2db7d7d4" />
+<img width="3434" height="1432" alt="image" src="https://github.com/EX4HUB/UI-Library/blob/main/Libraries/nhack/nhack.png?raw=true" />
 
 # [Mentality](https://github.com/sametexe001/sametlibs/blob/main/Mentality/Example.lua)
 
@@ -188,7 +188,7 @@ Showcase : https://youtu.be/FcVXVaTPqNY
 
 # [Pandora](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Pandora/Pandora%20-%20Example.lua)
 
-<img width="869" height="531" alt="image" src="https://github.com/user-attachments/assets/2c6135f5-5cfe-428b-80be-c0995c72a64e" />
+<img width="869" height="531" alt="image" src="https://github.com/EX4HUB/UI-Library/blob/main/Libraries/Pandora/Pandora.png?raw=true" />
 
 # [Thugsense](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Thugsense/Thugsense%20-%20Example.lua)
 
