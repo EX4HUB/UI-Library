@@ -163,11 +163,11 @@ Showcase : https://youtu.be/FcVXVaTPqNY
 
 # [Bitchbot](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Bitchbot/Bitchbot%20-%20Example.lua)
 
-<img width="624" height="620" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Bitchbot/Bitchbot.webp?raw=true" />
+<img width="579" height="485" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Bitchbot/Bitchbot.webp?raw=true" />
 
-# [Imgui](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Imgui/Imgui%20-%20library.lua)
+# [Imgui](https://github.com/EX4HUB/UI-Library/blob/main/Libraries/imgui-roblox/Example.lua)
 
-<img width="528" height="608" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Imgui/Imgui.webp?raw=true" />
+<img width="528" height="608" alt="image" src="https://github.com/EX4HUB/UI-Library/blob/main/Libraries/imgui-roblox/imgui.png?raw=true" />
 
 # [RayfieldGen2](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/RayfieldGen2/RayfieldGen2%20-%20Example.lua)
 
