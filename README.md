@@ -235,3 +235,6 @@ Showcase : https://youtu.be/FcVXVaTPqNY
 # [CitraUI](https://github.com/EX4HUB/UI-Library/blob/main/Libraries/CitraUI/CitraUI%20-%20Example.lua)
 
 <img width="823" height="600" alt="image" src="https://github.com/EX4HUB/UI-Library/blob/main/Libraries/CitraUI/Screenshot_20261112_165713.png?raw=true" />
+
+# Cerberus Lib
+![image](https://user-images.githubusercontent.com/83477843/211185441-378b9b20-a680-4e8b-9889-8f982dc68f00.png)
