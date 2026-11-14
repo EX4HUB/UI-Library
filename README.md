@@ -235,3 +235,7 @@ Showcase : https://youtu.be/FcVXVaTPqNY
 # [Airflow UI - Clone](https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Airflow%20UI%20-%20Clone/Example.luau)
 
 <img width="826" height="597" alt="image" src="https://github.com/venatresca4888/UI-Library/blob/main/Libraries/Airflow%20UI%20-%20Clone/image.webp?raw=true" />
+
+# [CitraUI](https://github.com/EX4HUB/UI-Library/blob/main/Libraries/CitraUI/CitraUI%20-%20Example.lua)
+
+<img width="823" height="600" alt="image" src="https://github.com/EX4HUB/UI-Library/blob/main/Libraries/CitraUI/Screenshot_20261112_165713.png?raw=true" />
